@@ -1,0 +1,20 @@
+[
+  {
+    "Id": "b6a4b157-35f4-4a4f-a5ef-8fddc5c0a8e1",
+    "Name": "No Painting During Rain",
+    "InternalDescription": "Block painting jobs if weather reports rain.",
+    "Description": "This rule prevents painting operations during rainy weather conditions.",
+    "Page": 1,
+    "Created": "2024-01-10T08:30:00Z",
+    "Updated": "2025-01-15T12:00:00Z"
+  },
+  {
+    "Id": "3fd67a6d-cb8e-4d12-b6c5-b0f8b16efeb5",
+    "Name": "Minimum Surface Temp",
+    "InternalDescription": "Ensure minimum surface temp before paint application.",
+    "Description": "Painting is allowed only if surface temperature is above 50°F.",
+    "Page": 2,
+    "Created": "2024-06-01T09:00:00Z",
+    "Updated": null
+  }
+]
